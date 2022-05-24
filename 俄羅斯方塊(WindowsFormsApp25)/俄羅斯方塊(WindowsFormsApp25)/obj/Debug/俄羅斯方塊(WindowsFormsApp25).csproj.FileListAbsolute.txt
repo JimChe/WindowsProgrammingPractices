@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\俄羅斯方塊(WindowsFormsApp25)\俄羅斯方塊(WindowsFormsApp25)\obj\Debug\俄羅斯方塊(WindowsFormsApp25).csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\俄羅斯方塊(WindowsFormsApp25)\俄羅斯方塊(WindowsFormsApp25)\obj\Debug\俄羅斯方塊_WindowsFormsApp25_.Form1.resources
+C:\Users\ASUS\source\repos\俄羅斯方塊(WindowsFormsApp25)\俄羅斯方塊(WindowsFormsApp25)\obj\Debug\俄羅斯方塊_WindowsFormsApp25_.Properties.Resources.resources
+C:\Users\ASUS\source\repos\俄羅斯方塊(WindowsFormsApp25)\俄羅斯方塊(WindowsFormsApp25)\obj\Debug\俄羅斯方塊(WindowsFormsApp25).csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\俄羅斯方塊(WindowsFormsApp25)\俄羅斯方塊(WindowsFormsApp25)\obj\Debug\俄羅斯方塊(WindowsFormsApp25).csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\俄羅斯方塊(WindowsFormsApp25)\俄羅斯方塊(WindowsFormsApp25)\bin\Debug\俄羅斯方塊(WindowsFormsApp25).exe.config
+C:\Users\ASUS\source\repos\俄羅斯方塊(WindowsFormsApp25)\俄羅斯方塊(WindowsFormsApp25)\bin\Debug\俄羅斯方塊(WindowsFormsApp25).exe
+C:\Users\ASUS\source\repos\俄羅斯方塊(WindowsFormsApp25)\俄羅斯方塊(WindowsFormsApp25)\bin\Debug\俄羅斯方塊(WindowsFormsApp25).pdb
+C:\Users\ASUS\source\repos\俄羅斯方塊(WindowsFormsApp25)\俄羅斯方塊(WindowsFormsApp25)\obj\Debug\俄羅斯方塊(WindowsFormsApp25).exe
+C:\Users\ASUS\source\repos\俄羅斯方塊(WindowsFormsApp25)\俄羅斯方塊(WindowsFormsApp25)\obj\Debug\俄羅斯方塊(WindowsFormsApp25).pdb
