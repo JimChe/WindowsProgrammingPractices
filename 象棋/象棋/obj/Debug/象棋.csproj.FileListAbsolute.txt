@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\象棋\象棋\bin\Debug\象棋.exe.config
+C:\Users\ASUS\source\repos\象棋\象棋\bin\Debug\象棋.exe
+C:\Users\ASUS\source\repos\象棋\象棋\bin\Debug\象棋.pdb
+C:\Users\ASUS\source\repos\象棋\象棋\obj\Debug\象棋.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\象棋\象棋\obj\Debug\象棋.Form1.resources
+C:\Users\ASUS\source\repos\象棋\象棋\obj\Debug\象棋.Properties.Resources.resources
+C:\Users\ASUS\source\repos\象棋\象棋\obj\Debug\象棋.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\象棋\象棋\obj\Debug\象棋.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\象棋\象棋\obj\Debug\象棋.exe
+C:\Users\ASUS\source\repos\象棋\象棋\obj\Debug\象棋.pdb
