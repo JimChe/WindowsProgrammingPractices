@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\f74084088_practice4_2\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\ASUS\source\repos\f74084088_practice4_2\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\ASUS\source\repos\f74084088_practice4_2\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\ASUS\source\repos\f74084088_practice4_2\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\f74084088_practice4_2\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\f74084088_practice4_2\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\ASUS\source\repos\f74084088_practice4_2\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
