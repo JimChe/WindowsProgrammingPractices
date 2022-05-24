@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\記憶遊戲(WindowsFormsApp23)\記憶遊戲(WindowsFormsApp23)\bin\Debug\記憶遊戲(WindowsFormsApp23).exe.config
+C:\Users\ASUS\source\repos\記憶遊戲(WindowsFormsApp23)\記憶遊戲(WindowsFormsApp23)\bin\Debug\記憶遊戲(WindowsFormsApp23).exe
+C:\Users\ASUS\source\repos\記憶遊戲(WindowsFormsApp23)\記憶遊戲(WindowsFormsApp23)\bin\Debug\記憶遊戲(WindowsFormsApp23).pdb
+C:\Users\ASUS\source\repos\記憶遊戲(WindowsFormsApp23)\記憶遊戲(WindowsFormsApp23)\obj\Debug\記憶遊戲(WindowsFormsApp23).csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\記憶遊戲(WindowsFormsApp23)\記憶遊戲(WindowsFormsApp23)\obj\Debug\記憶遊戲_WindowsFormsApp23_.Form1.resources
+C:\Users\ASUS\source\repos\記憶遊戲(WindowsFormsApp23)\記憶遊戲(WindowsFormsApp23)\obj\Debug\記憶遊戲_WindowsFormsApp23_.Properties.Resources.resources
+C:\Users\ASUS\source\repos\記憶遊戲(WindowsFormsApp23)\記憶遊戲(WindowsFormsApp23)\obj\Debug\記憶遊戲(WindowsFormsApp23).csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\記憶遊戲(WindowsFormsApp23)\記憶遊戲(WindowsFormsApp23)\obj\Debug\記憶遊戲(WindowsFormsApp23).csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\記憶遊戲(WindowsFormsApp23)\記憶遊戲(WindowsFormsApp23)\obj\Debug\記憶遊戲(WindowsFormsApp23).exe
+C:\Users\ASUS\source\repos\記憶遊戲(WindowsFormsApp23)\記憶遊戲(WindowsFormsApp23)\obj\Debug\記憶遊戲(WindowsFormsApp23).pdb
