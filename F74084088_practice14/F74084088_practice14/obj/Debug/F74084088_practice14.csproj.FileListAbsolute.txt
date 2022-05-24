@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\F74084088_practice14\F74084088_practice14\bin\Debug\practiceDB (1).mdf
+C:\Users\ASUS\source\repos\F74084088_practice14\F74084088_practice14\bin\Debug\practiceDB (1)_log.ldf
+C:\Users\ASUS\source\repos\F74084088_practice14\F74084088_practice14\bin\Debug\F74084088_practice14.exe.config
+C:\Users\ASUS\source\repos\F74084088_practice14\F74084088_practice14\bin\Debug\F74084088_practice14.exe
+C:\Users\ASUS\source\repos\F74084088_practice14\F74084088_practice14\bin\Debug\F74084088_practice14.pdb
+C:\Users\ASUS\source\repos\F74084088_practice14\F74084088_practice14\obj\Debug\F74084088_practice14.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\F74084088_practice14\F74084088_practice14\obj\Debug\F74084088_practice14.Form1.resources
+C:\Users\ASUS\source\repos\F74084088_practice14\F74084088_practice14\obj\Debug\F74084088_practice14.Properties.Resources.resources
+C:\Users\ASUS\source\repos\F74084088_practice14\F74084088_practice14\obj\Debug\F74084088_practice14.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\F74084088_practice14\F74084088_practice14\obj\Debug\F74084088_practice14.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\F74084088_practice14\F74084088_practice14\obj\Debug\F74084088_practice14.exe
+C:\Users\ASUS\source\repos\F74084088_practice14\F74084088_practice14\obj\Debug\F74084088_practice14.pdb
