@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\f74084088_practice3_1\f74084088_practice3_1\bin\Debug\f74084088_practice3_1.exe.config
+C:\Users\ASUS\source\repos\f74084088_practice3_1\f74084088_practice3_1\bin\Debug\f74084088_practice3_1.exe
+C:\Users\ASUS\source\repos\f74084088_practice3_1\f74084088_practice3_1\bin\Debug\f74084088_practice3_1.pdb
+C:\Users\ASUS\source\repos\f74084088_practice3_1\f74084088_practice3_1\obj\Debug\f74084088_practice3_1.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\f74084088_practice3_1\f74084088_practice3_1\obj\Debug\f74084088_practice3_1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\f74084088_practice3_1\f74084088_practice3_1\obj\Debug\f74084088_practice3_1.exe
+C:\Users\ASUS\source\repos\f74084088_practice3_1\f74084088_practice3_1\obj\Debug\f74084088_practice3_1.pdb
