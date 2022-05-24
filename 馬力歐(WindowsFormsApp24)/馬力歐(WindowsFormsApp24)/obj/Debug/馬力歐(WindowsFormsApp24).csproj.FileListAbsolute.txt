@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\馬力歐(WindowsFormsApp24)\馬力歐(WindowsFormsApp24)\bin\Debug\馬力歐(WindowsFormsApp24).exe.config
+C:\Users\ASUS\source\repos\馬力歐(WindowsFormsApp24)\馬力歐(WindowsFormsApp24)\bin\Debug\馬力歐(WindowsFormsApp24).exe
+C:\Users\ASUS\source\repos\馬力歐(WindowsFormsApp24)\馬力歐(WindowsFormsApp24)\bin\Debug\馬力歐(WindowsFormsApp24).pdb
+C:\Users\ASUS\source\repos\馬力歐(WindowsFormsApp24)\馬力歐(WindowsFormsApp24)\obj\Debug\馬力歐(WindowsFormsApp24).csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\馬力歐(WindowsFormsApp24)\馬力歐(WindowsFormsApp24)\obj\Debug\馬力歐_WindowsFormsApp24_.Form1.resources
+C:\Users\ASUS\source\repos\馬力歐(WindowsFormsApp24)\馬力歐(WindowsFormsApp24)\obj\Debug\馬力歐_WindowsFormsApp24_.Properties.Resources.resources
+C:\Users\ASUS\source\repos\馬力歐(WindowsFormsApp24)\馬力歐(WindowsFormsApp24)\obj\Debug\馬力歐(WindowsFormsApp24).csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\馬力歐(WindowsFormsApp24)\馬力歐(WindowsFormsApp24)\obj\Debug\馬力歐(WindowsFormsApp24).csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\馬力歐(WindowsFormsApp24)\馬力歐(WindowsFormsApp24)\obj\Debug\馬力歐(WindowsFormsApp24).exe
+C:\Users\ASUS\source\repos\馬力歐(WindowsFormsApp24)\馬力歐(WindowsFormsApp24)\obj\Debug\馬力歐(WindowsFormsApp24).pdb
